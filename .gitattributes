@@ -1,11 +1,10 @@
 # Disease Medicine Recommendation - Python/ML Project
 *.py linguist-detectable=true
-*.ipynb linguist-detectable=true
+*.ipynb linguist-language=Python
 *.html linguist-detectable=true
 *.css linguist-detectable=true
 *.js linguist-detectable=true
 *.md linguist-documentation=true
-*.csv linguist-generated=true
 
 # Mark dataset files as data
 dataset/* linguist-vendored
