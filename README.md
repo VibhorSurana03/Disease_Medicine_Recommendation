@@ -10,7 +10,7 @@
 
 **An intelligent healthcare assistant that predicts diseases and recommends personalized treatment plans**
 
-[Features](#-features) • [How It Works](#-how-it-works) • [Installation](#-installation) • [Tech Stack](#-tech-stack)
+[Features](#-features) • [How It Works](#-how-it-works) • [Installation](#-installation) • [Tech Stack](#️-tech-stack)
 
 </div>
 
